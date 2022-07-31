@@ -1,0 +1,10 @@
+.chores{
+    font-style: italic;
+    color: mediumvioletred;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.chores-header{
+    text-decoration: underline;
+}
